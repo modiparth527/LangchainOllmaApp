@@ -3,6 +3,10 @@
 This is a simple Streamlit web application that leverages **LangChain**, **Ollama**, and **Google's Gemma 2B** model to create an interactive chatbot experience. The app uses a predefined system prompt and accepts user questions to generate insightful responses.
 
 ---
+## 🎥 Demo
+
+![LangChain Chatbot Demo](ezgif-6eded561a97119.gif)
+
 
 ## 🚀 Features
 
